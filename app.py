@@ -16,7 +16,7 @@
 import os
 import sys
 from argparse import ArgumentParser
-import final exam as fi
+import final as fi
 
 from flask import Flask, request, abort
 from linebot import (
